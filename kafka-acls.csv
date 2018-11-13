@@ -1,3 +1,2 @@
-404: Not Found
 KafkaPrincipal,ResourceType,PatternType,ResourceName,Operation,PermissionType,Host
 User:Clayton,Topic,LITERAL,gecin.transacoes,Read,Allow,*
