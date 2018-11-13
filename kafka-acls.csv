@@ -2,4 +2,4 @@ KafkaPrincipal,ResourceType,PatternType,ResourceName,Operation,PermissionType,Ho
 User:Clayton,Topic,LITERAL,gecin.transacoes,Read,Allow,*
 KafkaPrincipal,ResourceType,PatternType,ResourceName,Operation,PermissionType,Host
 User:Clayton,Topic,LITERAL,gecin.transacoes,Read,Allow,*
-User:jair,Topic,LITERAL,gecin.transacoes,Read,Allow,*
+User:marcelo,Topic,LITERAL,gecin.transacoes,Read,Allow,*
