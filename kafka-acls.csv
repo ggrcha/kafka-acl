@@ -17,4 +17,4 @@ User:Juntos,Topic,LITERAL,venceremos.saques,Read,Allow,*
 User:Swarm,Topic,LITERAL,cluster.01,Read,Allow,*
 User:eyJpZCI6ImNlNzliNTQtNjc1NC00IiwiY29kaWdvUHVibGljYWRvciI6MCwiY29kaWdvU29mdHdhcmUiOjEwMjAxLCJzZXF1ZW5jaWFsSW5zdGFsYWNhbyI6MX0,Topic,LITERAL,eventos-arq30,All,Allow,*
 User:eyJpZCI6ImNlNzliNTQtNjc1NC00IiwiY29kaWdvUHVibGljYWRvciI6MCwiY29kaWdvU29mdHdhcmUiOjEwMjAxLCJzZXF1ZW5jaWFsSW5zdGFsYWNhbyI6MX0,Cluster,LITERAL,kafka-cluster,All,Allow,*
-User:Swarm,Cluster,LITERAL,cluster.01,All,Allow,*
+User:Swarm,Cluster,LITERAL,cluster.01,Read,Allow,*
