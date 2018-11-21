@@ -15,3 +15,4 @@ User:Biblioteca,Topic,LITERAL,vulneravel.saques,Read,Allow,*
 User:Latencia,Topic,LITERAL,atualizacao.saques,Read,Allow,*
 User:Juntos,Topic,LITERAL,venceremos.saques,Read,Allow,*
 User:Swarm,Topic,LITERAL,cluster.01,Read,Allow,*
+User:eyJpZCI6ImNlNzliNTQtNjc1NC00IiwiY29kaWdvUHVibGljYWRvciI6MCwiY29kaWdvU29mdHdhcmUiOjEwMjAxLCJzZXF1ZW5jaWFsSW5zdGFsYWNhbyI6MX0,Topic,LITERAL,eventos-arq30,Read,Allow,*
