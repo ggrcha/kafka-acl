@@ -19,3 +19,4 @@ User:eyJpZCI6ImNlNzliNTQtNjc1NC00IiwiY29kaWdvUHVibGljYWRvciI6MCwiY29kaWdvU29mdHd
 User:eyJpZCI6ImNlNzliNTQtNjc1NC00IiwiY29kaWdvUHVibGljYWRvciI6MCwiY29kaWdvU29mdHdhcmUiOjEwMjAxLCJzZXF1ZW5jaWFsSW5zdGFsYWNhbyI6MX0,Cluster,LITERAL,kafka-cluster,All,Allow,*
 User:Swarm,Cluster,LITERAL,cluster.01,Read,Allow,*
 User:Links,Cluster,LITERAL,cluster.99,All,Allow,*
+User:Links,Topic,LITERAL,topico.gearq,All,Allow,*
