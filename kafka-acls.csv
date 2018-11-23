@@ -22,3 +22,4 @@ User:nocache,Topic,LITERAL,topico.seguranca,All,Allow,*
 User:semVer,Topic,LITERAL,topico.versao,All,Allow,*
 User:eyJpZCI6ImNlNzliNTQtNjc1NC00IiwiY29kaWdvUHVibGljYWRvciI6MCwiY29kaWdvU29mdHdhcmUiOjEwMjAxLCJzZXF1ZW5jaWFsSW5zdGFsYWNhbyI6MX0,Group,LITERAL,conciliacao-app,All,Allow,*
 User:eyJpZCI6ImNlNzliNTQtNjc1NC00IiwiY29kaWdvUHVibGljYWRvciI6MCwiY29kaWdvU29mdHdhcmUiOjEwMjAxLCJzZXF1ZW5jaWFsSW5zdGFsYWNhbyI6MX0,TxnId,LITERAL,*,All,Allow,*
+User:eyJpZCI6ImNlNzliNTQtNjc1NC00IiwiY29kaWdvUHVibGljYWRvciI6MCwiY29kaWdvU29mdHdhcmUiOjEwMjAxLCJzZXF1ZW5jaWFsSW5zdGFsYWNhbyI6MX0,TransactionalId,LITERAL,*,All,Allow,*
