@@ -20,3 +20,4 @@ User:eyJpZCI6ImNlNzliNTQtNjc1NC00IiwiY29kaWdvUHVibGljYWRvciI6MCwiY29kaWdvU29mdHd
 User:Swarm,Cluster,LITERAL,cluster.01,Read,Allow,*
 User:Links,Cluster,LITERAL,cluster.99,All,Allow,*
 User:Links,Topic,LITERAL,topico.gearq,All,Allow,*
+User:Guilherme,Topic,LITERAL,topico.gearq,All,Allow,*
