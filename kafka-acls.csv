@@ -12,16 +12,9 @@ User:Biblioteca,Topic,LITERAL,vulneravel.saques,Read,Allow,*
 User:Latencia,Topic,LITERAL,atualizacao.saques,Read,Allow,*
 User:Juntos,Topic,LITERAL,venceremos.saques,Read,Allow,*
 User:Swarm,Topic,LITERAL,cluster.01,Read,Allow,*
-User:eyJpZCI6ImNlNzliNTQtNjc1NC00IiwiY29kaWdvUHVibGljYWRvciI6MCwiY29kaWdvU29mdHdhcmUiOjEwMjAxLCJzZXF1ZW5jaWFsSW5zdGFsYWNhbyI6MX0,Topic,LITERAL,eventos-arq30,All,Allow,*
-User:eyJpZCI6ImNlNzliNTQtNjc1NC00IiwiY29kaWdvUHVibGljYWRvciI6MCwiY29kaWdvU29mdHdhcmUiOjEwMjAxLCJzZXF1ZW5jaWFsSW5zdGFsYWNhbyI6MX0,Cluster,LITERAL,kafka-cluster,All,Allow,*
 User:Swarm,Cluster,LITERAL,cluster.01,Read,Allow,*
 User:Links,Cluster,LITERAL,cluster.99,All,Allow,*
 User:Links,Topic,LITERAL,topico.gearq,All,Allow,*
 User:Guilherme,Topic,LITERAL,topico.gearq,All,Allow,*
 User:nocache,Topic,LITERAL,topico.seguranca,All,Allow,*
 User:semVer,Topic,LITERAL,topico.versao,All,Allow,*
-User:eyJpZCI6ImNlNzliNTQtNjc1NC00IiwiY29kaWdvUHVibGljYWRvciI6MCwiY29kaWdvU29mdHdhcmUiOjEwMjAxLCJzZXF1ZW5jaWFsSW5zdGFsYWNhbyI6MX0,Group,LITERAL,conciliacao-app,All,Allow,*
-User:eyJpZCI6ImNlNzliNTQtNjc1NC00IiwiY29kaWdvUHVibGljYWRvciI6MCwiY29kaWdvU29mdHdhcmUiOjEwMjAxLCJzZXF1ZW5jaWFsSW5zdGFsYWNhbyI6MX0,DelegationToken,LITERAL,*,All,Allow,*
-User:eyJpZCI6ImNlNzliNTQtNjc1NC00IiwiY29kaWdvUHVibGljYWRvciI6MCwiY29kaWdvU29mdHdhcmUiOjEwMjAxLCJzZXF1ZW5jaWFsSW5zdGFsYWNhbyI6MX0,TransactionalId,LITERAL,*,All,Allow,*
-User:eyJpZCI6ImNlNzliNTQtNjc1NC00IiwiY29kaWdvUHVibGljYWRvciI6MCwiY29kaWdvU29mdHdhcmUiOjEwMjAxLCJzZXF1ZW5jaWFsSW5zdGFsYWNhbyI6MX0,Topic,LITERAL,*,All,Allow,*
-User:eyJpZCI6ImNlNzliNTQtNjc1NC00IiwiY29kaWdvUHVibGljYWRvciI6MCwiY29kaWdvU29mdHdhcmUiOjEwMjAxLCJzZXF1ZW5jaWFsSW5zdGFsYWNhbyI6MX0,Topic,LITERAL,macacosMeMordam,All,Allow,*
