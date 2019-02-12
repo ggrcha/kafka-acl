@@ -26,3 +26,4 @@ User:eyJpZCI6ImZmYzlmIiwiY29kaWdvUHVibGljYWRvciI6MCwiY29kaWdvU29mdHdhcmUiOjEwMjA
 User:eyJpZCI6ImZmYzlmIiwiY29kaWdvUHVibGljYWRvciI6MCwiY29kaWdvU29mdHdhcmUiOjEwMjAyLCJzZXF1ZW5jaWFsSW5zdGFsYWNhbyI6MX0,Topic,LITERAL,*,All,Allow,*
 User:eyJpZCI6ImZmYzlmIiwiY29kaWdvUHVibGljYWRvciI6MCwiY29kaWdvU29mdHdhcmUiOjEwMjAyLCJzZXF1ZW5jaWFsSW5zdGFsYWNhbyI6MX0,Cluster,LITERAL,*,All,Allow,*
 User:broker-kafka,Group,LITERAL,*,All,Allow,*
+User:broker-kafka,Topic,LITERAL,*,All,Allow,*
