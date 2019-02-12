@@ -34,3 +34,4 @@ User:producer-kafka,Cluster,LITERAL,*,All,Allow,*
 User:producer-kafka,TransactionalId,LITERAL,*,All,Allow,*
 User:producer-kafka,Group,LITERAL,*,All,Allow,*
 User:consumer-kafka,Topic,LITERAL,*,All,Allow,*
+User:consumer-kafka,Group,LITERAL,*,All,Allow,*
