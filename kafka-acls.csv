@@ -28,3 +28,4 @@ User:eyJpZCI6ImZmYzlmIiwiY29kaWdvUHVibGljYWRvciI6MCwiY29kaWdvU29mdHdhcmUiOjEwMjA
 User:broker-kafka,Group,LITERAL,*,All,Allow,*
 User:broker-kafka,Topic,LITERAL,*,All,Allow,*
 User:broker-kafka,Cluster,LITERAL,*,All,Allow,*
+User:broker-kafka,TransactionalId,LITERAL,*,All,Allow,*
