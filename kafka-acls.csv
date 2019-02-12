@@ -31,3 +31,4 @@ User:broker-kafka,Cluster,LITERAL,*,All,Allow,*
 User:broker-kafka,TransactionalId,LITERAL,*,All,Allow,*
 User:producer-kafka,Topic,LITERAL,*,All,Allow,*
 User:producer-kafka,Cluster,LITERAL,*,All,Allow,*
+User:producer-kafka,TransactionalId,LITERAL,*,All,Allow,*
